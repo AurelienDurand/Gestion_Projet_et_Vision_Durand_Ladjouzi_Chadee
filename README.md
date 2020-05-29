@@ -19,6 +19,9 @@ Code python réalisé dans un notebook sur google colab. Dans Collab il faut alo
 Rapport et présentation du projet.
 
 # Auteurs
-*DURAND Aurélien (Université Paris-Est Marne-la-Vallee, France)
-*Ladjouzi Rachid (Université Paris-Est Marne-la-Vallee, France)
-*Chadee Nopharut (Université Paris-Est Marne-la-Vallee, France)
+
+DURAND Aurélien (Université Paris-Est Marne-la-Vallee, France)
+
+Ladjouzi Rachid (Université Paris-Est Marne-la-Vallee, France)
+
+Chadee Nopharut (Université Paris-Est Marne-la-Vallee, France)
